@@ -1,8 +1,8 @@
 body, html {
-    margin: 0;
-    padding: 0;
+    margin: 0.3;
+    padding: 0.5;
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(to right, #FF6B6B, #FF9770); /* Gradient background */
+    background: linear-gradient(to right, #9f1e1e, #7c736f); /* Gradient background */
     height: 100%;
 }
 
